@@ -1,0 +1,26 @@
+{
+  "name": "render-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3R50N/render-route.git"
+  },
+  "keywords": [
+    "render",
+    "route",
+    "js",
+    "nodejs",
+    "express"
+  ],
+  "author": "D3R50n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D3R50N/render-route/issues"
+  },
+  "homepage": "https://github.com/D3R50N/render-route#readme"
+}
